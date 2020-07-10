@@ -7,7 +7,7 @@ I'm mainly focused on front-end development, but I have competencies related to 
 ---
 Currently working with ReactJS, React Native, NodeJS and Firebase.
 
-You can find me on <a href="https://www.linkedin.com/in/mateusduraes1994/" target="_blank" title="LinkedIn">Linkedin</a>
+You can find me on <a href="https://www.linkedin.com/in/fernandojuriolli/" target="_blank" title="LinkedIn">Linkedin</a>
 
 
    
