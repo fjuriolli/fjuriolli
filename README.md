@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there :shipit:
 
-<!--
-**fjuriolli/fjuriolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Brazil, working for a company based in Italy. 
 
-Here are some ideas to get you started:
+I'm mainly focused on front-end development, but I have competencies related to back-end, mobile and web applications, using a variety of technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Currently working with ReactJS, React Native, NodeJS and Firebase.
+
+You can find me on <a href="https://www.linkedin.com/in/mateusduraes1994/" target="_blank" title="LinkedIn">Linkedin</a>
+
+
+   
